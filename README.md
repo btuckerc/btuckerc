@@ -1,6 +1,6 @@
 # Hi, I'm Tucker
 
-I'm a software engineer. I'm currently writing firmware for a pocket companion: Pokémon with an AI handoff, and Grain, a tiny game you play by moving it.
+I'm a software engineer building omalo, a pocket companion running ichr. My current work brings Pokémon Emerald to the device, with an AI handoff for gameplay goals.
 
 - [CenterSeat](https://github.com/btuckerc/center-seat) — movie-seat ranking; live searches require a configured data provider.
 - [boilerplate](https://github.com/btuckerc/boilerplate) — my macOS and Linux workspace setup with chezmoi and mise.
