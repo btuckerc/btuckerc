@@ -4,6 +4,7 @@ I'm a software engineer building omalo, a pocket companion running ichr. My curr
 
 ## Recent apps
 
+- [Herdwick](https://github.com/btuckerc/herdwick) — iPhone and iPad client for [herdr](https://herdr.dev): read and answer your coding agents as conversations over SSH, or drop into the live terminal.
 - [Dictation](https://github.com/btuckerc/dictation) — Mac-first technical dictation with local speech recognition and custom vocabulary, built on [Handy](https://github.com/cjpais/Handy).
 - [Pace Bar](https://github.com/btuckerc/pace-bar) — Codex quotas, local inference metrics, and OpenRouter credit in the macOS menu bar. A focused fork of [CodexBar](https://github.com/steipete/CodexBar).
 - [StreamApp](https://github.com/btuckerc/streamapp) — screen recording, Twitch streaming, and desktop annotation from the Mac menu bar.
